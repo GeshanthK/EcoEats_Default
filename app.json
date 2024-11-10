@@ -1,0 +1,40 @@
+{
+  "expo": {
+    "name": "BudgetMealPlanner",
+    "slug": "BudgetMealPlanner",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "firebase": {
+        "apiKey": "AIzaSyDrP3KESb-Kb3u9Xu4CL1WY3qNudG6UVJo",
+        "authDomain": "budget-meal-planner.firebaseapp.com",
+        "projectId": "budget-meal-planner",
+        "storageBucket": "budget-meal-planner.appspot.com",
+        "messagingSenderId": "36469347244",
+        "appId": "1:36469347244:web:7a205426744219ccd4a009"
+      }
+    }
+  }
+}
