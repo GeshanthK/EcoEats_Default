@@ -1,2 +1,2 @@
-APP_ID = "f77ef723"
-APP_KEY = "80f8ce81819bc02108f2ddf1f98a555a"
+APP_ID = "xxx"
+APP_KEY = "xxxxx"
